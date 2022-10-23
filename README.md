@@ -52,7 +52,7 @@ selanjutnya membuat program dengan contoh menghitung luas dan keliling persegi p
 
 <img width="919" alt="ss8" src="https://user-images.githubusercontent.com/115637858/197386490-d1c10d55-f22a-4c98-bf0c-e047bdd91bd5.png">
 
-dan perintah mengghitung luas dan keliling ,hasilnya dibawah ini
+dan perintah menghitung luas dan keliling ,hasilnya dibawah ini
 
 <img width="531" alt="ss9" src="https://user-images.githubusercontent.com/115637858/197386506-d3db75d9-69f5-4ea9-bade-9b7eb9655060.png">
 
